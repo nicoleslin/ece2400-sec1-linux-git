@@ -5,3 +5,8 @@ red
 green
 blue
 primary colors of light
+
+red
+yellow
+blue
+primary colors of pigment
