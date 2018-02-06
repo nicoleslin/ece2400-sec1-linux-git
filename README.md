@@ -4,3 +4,4 @@ ECE2300 discussion section 1 practice with Git.
 red
 green
 blue
+primary colors of light
